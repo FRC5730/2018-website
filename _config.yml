@@ -80,25 +80,47 @@ levels:
 
 # Timeline info
 timeline:
-- year: 2015
-  header: A Team reborn
-  details: Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship. We also attended the Missouri State Championship event where we were on the Second place alliance.
+- date: 03/25/2015
+  header: A Team Reborn
+  details: Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship.
   class:
+  image: 2015.jpg
 
-- year: 2016
-  header: Relocated
-  details: 'In 2016, we were officially listed as a school club and granted space at the High School to use for meetings and builds. We attended the regional competition in Kansas City where we earned the Quality Award for our durable, tracked robot. We were again invited to the Missouri State Champioship as the #11 ranked robot in the state. In the alliance selections, we elected to captian the #7 ranked alliance going into elemination play.'
+- date: 04/22/2015
+  header: The Big Time!
+  details: At the FIRST World Championship, we competed with the top 600 teams from around the world. We ranked 39th with an average qual score of 124.90
   class: timeline-inverted
+  image: 2015.jpg
 
-- year: 2017
-  header: No longer a rookie
-  details: This year marked the third concecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
+- date: 05/09/2015
+  header: State Bound!
+  details: We also attended the Missouri State Championship event where we were on the Second place alliance.
   class:
+  image: 2015.jpg
 
-- year: 2018
+- date: 03/09/2016
+  header: Relocated
+  details: 'In 2016, we were officially listed as a school club and granted space at the High School to use for meetings and builds. We attended the regional competition in Kansas City where we earned the Quality Award for our durable, tracked robot.'
+  class: timeline-inverted
+  image: 2016.jpg
+
+- date: 05/14/2016
+  header: State of Redux
+  details: 'We were again invited to the Missouri State Champioship as the #11 ranked robot in the state. In the alliance selections, we elected to captian the #7 ranked alliance going into elemination play.'
+  class:
+  image: 2016-state.jpg
+
+- date: 03/22/2017
+  header: Rookies no more...
+  details: This year marked the third concecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
+  class: timeline-inverted
+  image: 2017.jpg
+
+- date: 03/28/2018
   header: Let the Mecanum wheels roll!
   details: We are making our 3rd appearance at the Oklahoma City Regional this year and we have our eye on another engineering award.
-  class: timeline-inverted
+  class:
+  image: 2018.jpg
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
