@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2015
 event: Oklahoma City Regional
 event_url: https://www.thebluealliance.com/event/2015okok
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: "Memorable moment: we were in Match #1 and our developer had the autonomous routine programmed backwards so the robot raced backwards and hit the ramp. It tipped over backwards nearly hitting some of the spectators that were too close to the field!"
 
 ---
