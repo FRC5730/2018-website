@@ -1,0 +1,29 @@
+<!--======== pricing =========-->
+<section id="pricing-table1-2" class="pricing-table1-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Sponsor Us!</h2>
+                <h3 class="section-subheading text-muted">Are you interested in sponsoring STEM education? We are interested in any assistance you may be able to provide. From raw materials, to working with us, to good old fashioned funding, we are excited to partner with you!</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for level in site.levels %}
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="pricing-table wow zoomIn" data-wow-delay="0.2s">
+                    <strong>{{ level.name }}</strong>
+                    <h3>{{ level.amount }}</h3>
+                    <ul class="list-items">
+                        {% for item in level.items %}
+                        <li>{{ item.title }}</li>
+                        {% endfor %}
+                    </ul>
+                    <a href="#contact" class="btn btn-xl">Sponsor us!</a>
+                    <br>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!--======== End pricing =========-->

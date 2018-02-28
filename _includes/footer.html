@@ -1,0 +1,31 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-phone"></i> <span>{{ site.phone }}</span></li>
+                        <li><i class="fa fa-home"></i> <span>{{ site.address }}</span></li>
+                        <li><i class="fa fa-envelope-o"></i> <span><a href="mailto:{{ site.email }}?subject=Website%20Inquiry">{{ site.email }}</a></span></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    <span class="copyright">Copyright &copy; {{ 'now' | date: "%Y" }}</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="https://www.thebluealliance.com/team/5730">5730 @ The Blue Alliance</a>
+                        </li>
+                        <li><a href="https://www.firstinspires.org/robotics/frc">FIRST Robotics Competition</a>
+                        </li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </footer>

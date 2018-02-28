@@ -1,0 +1,116 @@
+# Site settings
+title: FRC Team 5730, The Professionals
+email: thefrcpros@gmail.com
+phone: (417)-235-5445
+address: 1 David Sippy Drive, Monett, MO 65708
+description: "Team 5730 is a competitive robotics team based in Monett, MO. We participate in the FIRST Robotics Competition."
+
+# Sponsor info
+sponsors:
+- name: Monett High School
+  alt: ""
+  link: https://www.monettschools.org/MHS
+  logo: gocubs.png
+
+- name: EFCO
+  alt: "EFCO is a leading manufacturer of commercial windows"
+  link: http://www.efcocorp.com/
+  logo: EFCO.jpg
+
+- name: Clark Industries
+  alt: "Clark Industries, Inc. is a privately owned and operated company that has been supplying the building components industry with manufacturing equipment, parts, and service for over 35 years."
+  link: http://www.clark-ind.com/
+  logo: Clark.png
+
+- name: IMEC
+  alt: "IMEC is an ISO 9001:2008 certified contract manufacturer of precision sheet metal parts, machined parts and assemblies."
+  link: http://imecmonett.com/
+  logo: IMEC.png
+
+- name: National Fastener
+  alt: ""
+  link: https://neiafasteners.com/
+  logo: nf.png
+
+- name: Purvis Industries
+  alt: ""
+  link: http://purvisindustries.com/
+  logo: purvis.gif
+
+- name: Martin Sprocket
+  alt: ""
+  link: http://www.martinsprocket.com/
+  logo: martin.png
+
+- name: IDF
+  alt: ""
+  link: https://idf.com/
+  logo: idf.png
+
+# Sponsorship levels
+levels:
+- name: Bronze
+  amount: $ Any
+  items:
+    - title: Shout-out on the Team's Social Media
+    - title: Listing on the Team's Website
+
+- name: Silver
+  amount: $ 1000
+  items:
+    - title: Shout-out on the Team's Social Media
+    - title: Your Logo on the Team's Website
+    - title: Your Name on our Team shirts
+
+- name: Gold
+  amount: $ 2500
+  items:
+    - title: Shout-out on the Team's Social Media
+    - title: Your Logo on the Team's Website
+    - title: Your Logo on our Team shirts
+    - title: Your name on our Robot
+
+- name: Platinum
+  amount: $ 5000
+  items:
+    - title: Shout-out on the Team's Social Media
+    - title: Your Logo on the Team's Website
+    - title: Your Logo on our Team shirts
+    - title: Your Name or logo laser cut on our Robot
+
+# Timeline info
+timeline:
+- year: 2015
+  header: A Team reborn
+  details: Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship. We also attended the Missouri State Championship event where we were on the Second place alliance.
+  class:
+
+- year: 2016
+  header: Relocated
+  details: 'In 2016, we were officially listed as a school club and granted space at the High School to use for meetings and builds. We attended the regional competition in Kansas City where we earned the Quality Award for our durable, tracked robot. We were again invited to the Missouri State Champioship as the #11 ranked robot in the state. In the alliance selections, we elected to captian the #7 ranked alliance going into elemination play.'
+  class: timeline-inverted
+
+- year: 2017
+  header: No longer a rookie
+  details: This year marked the third concecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
+  class:
+
+- year: 2018
+  header: Let the Mecanum wheels roll!
+  details: We are making our 3rd appearance at the Oklahoma City Regional this year and we have our eye on another engineering award.
+  class: timeline-inverted
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/thefrcpros
+  - title: facebook
+    url: https://www.facebook.com/TheFRCPros5730/
+  - title: instagram
+    url: https://www.instagram.com/thefrcpros/
+  - title: github
+    url: https://github.com/FRC5730
+
+# Build settings
+markdown: kramdown
+permalink: pretty
