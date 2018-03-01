@@ -22,6 +22,22 @@
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">{{ event.details }}</p>
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                            <th scope="col" class="text-align-center" style="width: 50%;">Statistic</th>
+                                            <th scope="col" class="text-align-center" style="width: 50%;">Result</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                        {% for s in event.stats %}
+                                            <tr>
+                                            <th scope="row" class="text-align-center">{{ s.stat }}</th>
+                                            <td class="text-align-left">{{ s.val }}</td>
+                                            </tr>
+                                        {% endfor %}
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </li>

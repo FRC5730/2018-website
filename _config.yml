@@ -82,43 +82,106 @@ levels:
 timeline:
 - date: 03/25/2015
   header: A Team Reborn
-  details: Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship.
+  details: "Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship."
+  stats:
+    - stat: "Record"
+      val: "4-5"
+    - stat: "Rank"
+      val: "54"
+    - stat: "Av. Score"
+      val: "35.44"
+    - stat: "Awards"
+      val: "Rookie All Star"
   class:
   image: 2015.jpg
 
 - date: 04/22/2015
   header: The Big Time!
-  details: At the FIRST World Championship, we competed with the top 600 teams from around the world. We ranked 39th with an average qual score of 124.90
+  details: "At the FIRST World Championship, we competed with the top 600 teams from around the world. We ranked 39th with an average qual score of 124.90. We were also the top rookie seed in Tesla Division, and our human player ranked 3rd overall in Tesla Division."
+  stats:
+    - stat: "Record"
+      val: "5-5"
+    - stat: "Rank"
+      val: "39"
+    - stat: "Av. Score"
+      val: "124.90"
+    - stat: "Awards"
+      val: "Top Rookie in Division<br>#2 Human Player in Division"
   class: timeline-inverted
   image: 2015.jpg
 
 - date: 05/09/2015
   header: State Bound!
   details: We also attended the Missouri State Championship event where we were on the Second place alliance.
+  stats:
+    - stat: "Record"
+      val: ""
+    - stat: "Rank"
+      val: ""
+    - stat: "Av. Score"
+      val: ""
+    - stat: "Awards"
+      val: "Finalist"
   class:
   image: 2015.jpg
 
 - date: 03/09/2016
   header: Relocated
   details: 'In 2016, we were officially listed as a school club and granted space at the High School to use for meetings and builds. We attended the regional competition in Kansas City where we earned the Quality Award for our durable, tracked robot.'
+  stats:
+    - stat: "Record"
+      val: "9-5-1"
+    - stat: "Rank"
+      val: "16"
+    - stat: "Av. Score"
+      val: "90.93"
+    - stat: "Awards"
+      val: "Quality Award by Motorola"
   class: timeline-inverted
   image: 2016.jpg
 
 - date: 05/14/2016
   header: State of Redux
   details: 'We were again invited to the Missouri State Champioship as the #11 ranked robot in the state. In the alliance selections, we elected to captian the #7 ranked alliance going into elemination play.'
+  stats:
+    - stat: "Record"
+      val: ""
+    - stat: "Rank"
+      val: ""
+    - stat: "Av. Score"
+      val: ""
+    - stat: "Awards"
+      val: ""
   class:
   image: 2016-state.jpg
 
 - date: 03/22/2017
   header: Rookies no more...
   details: This year marked the third concecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
+  stats:
+    - stat: "Record"
+      val: "1-6-1"
+    - stat: "Rank"
+      val: "57"
+    - stat: "Av. Score"
+      val: "189"
+    - stat: "Awards"
+      val: "Industrial Design Award by General Motors"
   class: timeline-inverted
   image: 2017.jpg
 
 - date: 03/28/2018
   header: Let the Mecanum wheels roll!
   details: We are making our 3rd appearance at the Oklahoma City Regional this year and we have our eye on another engineering award.
+  stats:
+    - stat: "Record"
+      val: ""
+    - stat: "Rank"
+      val: ""
+    - stat: "Av. Score"
+      val: ""
+    - stat: "Awards"
+      val: ""
   class:
   image: 2018.jpg
 
