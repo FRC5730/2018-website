@@ -7,7 +7,7 @@ date: 2017-03-22
 img: lowrider.png
 thumbnail: lowrider.png
 alt: image-alt
-project-date: March 2017
+event-date: March 2017
 event: Oklahoma City Regional
 event_url: https://www.thebluealliance.com/event/2017okok
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.

@@ -82,7 +82,7 @@ levels:
 timeline:
 - date: 03/25/2015
   header: A Team Reborn
-  details: "Team 5730, The Profressionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inguaral year, we attended the regional competition in Olkahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship."
+  details: "Team 5730, The Professionals was started by the three students from Monett High School when they found themselves the last remaining members of FRC Team 3784. They decided that a team associated with the school would be more sustainable than a standalone team. In our inaugural year, we attended the regional competition in Oklahoma City. While we didn't do as well as we'd liked in the competition, we won the Rookie All-Star Award. This award qualified us for a spot at the World Championship."
   stats:
     - stat: "Record"
       val: "4-5"
@@ -142,7 +142,7 @@ timeline:
 
 - date: 05/14/2016
   header: State of Redux
-  details: 'We were again invited to the Missouri State Champioship as the #11 ranked robot in the state. In the alliance selections, we elected to captian the #7 ranked alliance going into elemination play.'
+  details: 'We were again invited to the Missouri State Championship as the #11 ranked robot in the state. In the alliance selections, we elected to captain the #7 ranked alliance going into elimination play.'
   stats:
     - stat: "Record"
       val: ""
@@ -157,7 +157,7 @@ timeline:
 
 - date: 03/22/2017
   header: Rookies no more...
-  details: This year marked the third concecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
+  details: This year marked the third consecutive year for the team to earn awards as we earned the Industrial Design Award for our custom 90 degree gear boxes, our custom winch system, and our 3D CAD designs.
   stats:
     - stat: "Record"
       val: "1-6-1"

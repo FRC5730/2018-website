@@ -7,7 +7,7 @@ date: 2018-01-28
 img: 2018.png
 thumbnail: 2018.png
 alt: image-alt
-project-date: March 2018
+event-date: March 2018
 event: Oklahoma City Regional
 event_url: https://www.thebluealliance.com/event/2018okok
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
