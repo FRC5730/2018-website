@@ -1,12 +1,8 @@
 # FRC 5730 website repository
 
-Travis CI Status:
-
-![alt text](https://travis-ci.org/FRC5730/2018-website.svg?branch=master "Build Status")
-
 ## Information
 
-Our website uses a heavily customized derivative of Rick Kim's Agency [theme](https://github.com/y7kim/agency-jekyll-theme) and [Jekyll](http://jekyllrb.com/). Travis CI performs automated builds with Jekyll and uploads the newly generated content to the website.
+Our website uses a heavily customized derivative of Rick Kim's Agency [theme](https://github.com/y7kim/agency-jekyll-theme) and [Jekyll](http://jekyllrb.com/). We are using Github Pages to host the site.
 
 ## Student Customizations
 
