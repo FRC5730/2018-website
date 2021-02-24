@@ -1,0 +1,15 @@
+---
+title: 2019
+subtitle: "Foul Play"
+layout: default
+modal-id: 5
+date: 2019-03-06
+img: 2019.jpg
+thumbnail: 2019.jpg
+alt: image-alt
+event-date: March 2019
+event: Oklahoma City Regional
+event_url: https://www.thebluealliance.com/event/2019okok
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

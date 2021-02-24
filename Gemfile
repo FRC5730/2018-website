@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "html-proofer"
 gem "jekyll"
 
 # If you have any plugins, put them here!
