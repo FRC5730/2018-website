@@ -45,7 +45,7 @@ google.charts.setOnLoadCallback(drawGradeChart);
 function drawGenderChart() {
     var data = google.visualization.arrayToDataTable([
     ['Gender', 'Count', { role: 'style' }, { role: 'annotation' }],
-    ['Female', 4, 'color: #E93F33', '4'],
+    ['Female', 7, 'color: #E93F33', '7'],
     ['Male', 15, 'color: #E93F33', '15']
     ]);
 
@@ -60,10 +60,10 @@ function drawGenderChart() {
 function drawGradeChart() {
     var data = google.visualization.arrayToDataTable([
     ['Grade', 'Count', { role: 'style' }, { role: 'annotation' }],
-    ['Freshman', 2, 'color: #E93F33', '2'],
-    ['Sophomore', 10, 'color: #E93F33', '10'],
-    ['Junior', 7, 'color: #E93F33', '7'],
-    ['Senior', 0, 'color: #E93F33', '0']
+    ['Freshman', 9, 'color: #E93F33', '9'],
+    ['Sophomore', 8, 'color: #E93F33', '8'],
+    ['Junior', 3, 'color: #E93F33', '3'],
+    ['Senior', 2, 'color: #E93F33', '2']
     ]);
 
     var options = {

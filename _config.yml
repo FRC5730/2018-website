@@ -14,7 +14,7 @@ sponsors:
 
 - name: EFCO
   alt: "EFCO is a leading manufacturer of commercial windows"
-  link: http://www.efcocorp.com/
+  link: https://www.efcocorp.com/
   logo: EFCO.jpg
 
 - name: Clark Industries
@@ -34,7 +34,7 @@ sponsors:
 
 - name: Purvis Industries
   alt: ""
-  link: http://purvisindustries.com/
+  link: https://www.purvisindustries.com/
   logo: purvis.gif
 
 - name: Martin Sprocket
@@ -46,6 +46,11 @@ sponsors:
   alt: ""
   link: https://idf.com/
   logo: idf.png
+
+- name: Adrenaline Apparel
+  alt: ""
+  link: https://adrenalineapparel.net/
+  logo: aad.png
 
 # Sponsorship levels
 levels:
@@ -175,6 +180,36 @@ timeline:
   details: We are making our 3rd appearance at the Oklahoma City Regional this year and we have our eye on another engineering award.
   stats:
     - stat: "Record"
+      val: "4-5-0"
+    - stat: "Rank"
+      val: "46"
+    - stat: "Av. Score"
+      val: ""
+    - stat: "Awards"
+      val: ""
+  class:
+  image: 2018.jpg
+
+- date: 03/06/2019
+  header: Foul Play
+  details: We continued our tradition of attending the regional event in Oklahoma City
+  stats:
+    - stat: "Record"
+      val: "7-5-0"
+    - stat: "Rank"
+      val: "14"
+    - stat: "Av. Score"
+      val: "189"
+    - stat: "Awards"
+      val: "We didn't win an award but this year was our highest ranking in qualification play"
+  class: timeline-inverted
+  image: 2019.jpg
+
+- date: 03/11/2020
+  header: Cancelled...
+  details: This was the first year we had the funding to attend two events. Unfortunately, that didn't happen due to the COVID pandemic.
+  stats:
+    - stat: "Record"
       val: ""
     - stat: "Rank"
       val: ""
@@ -183,7 +218,22 @@ timeline:
     - stat: "Awards"
       val: ""
   class:
-  image: 2018.jpg
+  image: 2020.png
+
+- date: 03/01/2021
+  header: Virtual Robots?
+  details: Since most places are still struggling with COVID, FIRST elected to have a "virtual only" season.
+  stats:
+    - stat: "Record"
+      val: ""
+    - stat: "Rank"
+      val: ""
+    - stat: "Av. Score"
+      val: ""
+    - stat: "Awards"
+      val: ""
+  class: timeline-inverted
+  image: 2021.png
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
